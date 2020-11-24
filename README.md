@@ -1,6 +1,8 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+## Projeto Recriando Interface de Login do Instagram   
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+### Curso da Digital Innovation One
+
+Esse é o repositório da aula de Flexbox, na qual fiz a interface de login do Instagram! 🙃
 
 ### Os requisitos são:
 
